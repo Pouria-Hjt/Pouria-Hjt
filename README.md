@@ -1,9 +1,11 @@
 # 💫About Me :
-My name is pouria but you can call me pori 
+My name is pouria but you can call me pori. 
 
-I'm learning network and cyber sec 
+I'm learning network and cyber security.
 
-also I'm a discord developer 
+I'm a Web designer.
+
+also I'm a discord developer. 
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/po._.riw) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/po_riw) 
