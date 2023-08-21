@@ -7,7 +7,7 @@ web developer and designer
 *   🌍  I'm based in Iran
 *   🖥️  See my portfolio at [poriw.me](http://poriw.w3spaces.com)
 *   ✉️  You can contact me at [My Mail](mailto:poriw.hjt@proton.me)
-*   🚀  I'm currently working on my personal web website
+*   🚀  I'm currently working on my personal website
 *   🧠  I'm currently learning Next.js & GoLang
 *   🤝  I'm open to collaborating on intresting projects
 ### Skills
