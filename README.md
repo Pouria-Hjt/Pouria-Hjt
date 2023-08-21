@@ -6,9 +6,9 @@ web developer and designer
 
 *   🌍  I'm based in Iran
 *   🖥️  See my portfolio at [poriw.me](http://poriw.w3spaces.com)
-*   ✉️  You can contact me at [My Mail](mailto:poriw.hjt@gmail.com)
-*   🚀  I'm currently working on Elzamat shop website
-*   🧠  I'm currently learning React.js & GoLang
+*   ✉️  You can contact me at [My Mail](mailto:poriw.hjt@proton.me)
+*   🚀  I'm currently working on Iland Metaverse website
+*   🧠  I'm currently learning Next.js & GoLang
 *   🤝  I'm open to collaborating on intresting projects
 ### Skills
 <p align="left">
