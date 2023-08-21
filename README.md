@@ -22,9 +22,8 @@ web developer and designer
                    
 ### Socials
                   
-<p align="left">    
-    <a href="https://discord.com/users/968204244354220113" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>       
-    <a href="https://www.github.com/poriw_hjt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>    
+<p align="left">      
+    <a href="https://www.github.com/Pouria-Hjt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>    
     <a href="http://www.instagram.com/po._.riw" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
     <a href="https://www.twitter.com/po_riw" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 </p>
