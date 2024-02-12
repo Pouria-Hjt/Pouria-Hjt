@@ -8,7 +8,7 @@ web developer and designer
 *   🖥️  See my portfolio at no where yet
 *   ✉️  You can contact me at [My Mail](mailto:poriw.hjt@proton.me)
 *   🚀  I'm currently working on a personal website open source project
-*   🧠  I'm currently learning Next.js
+*   🧠  I'm currently learning Vue.js
 *   🤝  I'm open to collaborating on intresting projects
 ### Skills
 <p align="left">
