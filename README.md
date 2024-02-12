@@ -11,18 +11,33 @@ web developer and designer
 *   🧠  I'm currently learning Vue.js
 *   🤝  I'm open to collaborating on intresting projects
 ### Skills
-<p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<p align="center">
+    <a href="https://react.dev">
+        <img src="https://skillicons.dev/icons?i=react" />
+    </a>
+    <a href="https://nextjs.org">
+        <img src="https://skillicons.dev/icons?i=next" />
+    </a>  
+    <a href="https://tailwindcss.com">
+        <img src="https://skillicons.dev/icons?i=tailwindcss" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">
+        <img src="https://skillicons.dev/icons?i=js" />
+    </a>
+    <a href="https://www.typescriptlang.org/">
+        <img src="https://skillicons.dev/icons?i=ts" />
+    </a>
+    <a href="https://redux.js.org">
+        <img src="https://skillicons.dev/icons?i=redux" />
+    </a>
+    <a href="https://vuejs.org">
+        <img src="https://skillicons.dev/icons?i=vue" />
+    </a>
 </p>
-                   
+
 ### Socials
                   
 <p align="left">      
-    <a href="https://www.github.com/Pouria-Hjt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>    
-    <a href="http://www.instagram.com/po._.riw" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-    <a href="https://www.twitter.com/po_riw" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+    <a href="http://www.instagram.com/po._.riw" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+    <a href="https://www.twitter.com/po_riw" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 </p>
