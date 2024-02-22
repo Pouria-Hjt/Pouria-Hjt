@@ -1,7 +1,7 @@
 Hi 👋 My name is Pouria Hajati
 ==============================
 
-web developer and designer
+web developer
 --------------------------
 
 *   🌍  I'm based in Iran
